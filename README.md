@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFcudrysn7-4Q/profile-displaybackgroundimage-shrink_200_800/B56Z2CYH2_IIAU-/0/1776008856606?e=1778716800&v=beta&t=biEyuRNVglKYxqtjUCgjaETYFhl7uSoxA2C1dNehaME" width="100%" />
+  <img src="[https://media.licdn.com/dms/image/v2/D5616AQFcudrysn7-4Q/profile-displaybackgroundimage-shrink_200_800/B56Z2CYH2_IIAU-/0/1776008856606?e=1778716800&v=beta&t=biEyuRNVglKYxqtjUCgjaETYFhl7uSoxA2C1dNehaME](https://res.cloudinary.com/deosirf4r/image/upload/v1779282727/linkdincover_htgcyd.jpg)" width="100%" />
 </p>
 <h1 align="center"> 
    👋 Hi there, I'm Shakhawat Hossen  
